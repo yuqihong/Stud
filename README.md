@@ -1,5 +1,5 @@
 # Stud
-2018-07-26自己的各种学习记录、包括Linux、Java架构、大数据等知识</br>
+自己的各种学习记录、包括Linux、Java架构、大数据等知识</br>
 Linux篇：</br>
 学习安全课程中的Linux</br>
 </br>
@@ -10,4 +10,6 @@ Java篇：</br>
 </br>
 大数据篇：</br>
 八天完全攻克Hadoop视频教程</br>
-云大数据
+云大数据</br>
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;     Begin By -- 2018-07-26
